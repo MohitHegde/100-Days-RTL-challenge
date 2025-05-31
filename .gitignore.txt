@@ -1,0 +1,92 @@
+# Vivado files
+*.jou
+*.log
+*.xpr
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.srcs/
+*.runs/
+*.gen/
+*_wrapper.v
+*.str
+
+# ModelSim/QuestaSim files
+work/
+*.wlf
+*.vstf
+*.wdb
+transcript
+vsim.wlf
+
+# Quartus files
+*.qpf
+*.qsf
+*.qws
+*.pin
+*.summary
+*.rpt
+db/
+incremental_db/
+output_files/
+
+# Xilinx ISE files
+*.bgn
+*.bit
+*.bld
+*.cmd_log
+*.drc
+*.lso
+*.ncd
+*.ngc
+*.ngd
+*.ngr
+*.pad
+*.par
+*.pcf
+*.prj
+*.ptwx
+*.rbt
+*.syr
+*.twr
+*.twx
+*.unroutes
+*.ut
+*.xpi
+*.xst
+*_bitgen.xwbt
+*_map.map
+*_map.mrp
+*_map.ngm
+*_map.xrpt
+*_ngdbuild.xrpt
+*_pad.csv
+*_pad.txt
+*_par.xrpt
+*_summary.xml
+*_usage.xml
+*_xst.xrpt
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup files
+*~
+*.bak
+*.orig
+*.swp
+*.tmp
+
+# Log files
+*.log
