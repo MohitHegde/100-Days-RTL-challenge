@@ -15,10 +15,18 @@ Daily practice with Verilog/SystemVerilog and digital design concepts.
 ### Day 02 - 2X1 Mux using behavoioural style ✅
 - **Topic:** Mux
 - **Files:** 
-  - `day-01/src/mux_2x1.v` - 2 input with a select line and a single output
-  - `day-01/tb/mux_2x1_tb.v` - Testbench with all input combinations
+  - `day-02/src/mux_2x1.v` - 2 input with a select line and a single output
+  - `day-02/tb/mux_2x1_tb.v` - Testbench with all input combinations
 - **Learning** ?: Ternary Operator
 - **Date:** 01/06/25
 
+### Day 02 - 4X1 Mux using Structural style ✅
+- **Topic:** Mux
+- **Files:** 
+  - `day-03/src/mux4x1.v` - 4 input with 2 select line and a single output
+  - `day-03/tb/mux4x1_tb.v` - Testbench with all input combinations
+- **Learning** Structural Style
+- **Date:** 02/06/25
+
 ---
-**Progress:** 2/100 days | **Current Streak:** 2 🔥
+**Progress:** 3/100 days | **Current Streak:** 3 🔥
