@@ -20,7 +20,7 @@ Daily practice with Verilog/SystemVerilog and digital design concepts.
 - **Learning** ?: Ternary Operator
 - **Date:** 01/06/25
 
-### Day 02 - 4X1 Mux using Structural style ✅
+### Day 03 - 4X1 Mux using Structural style ✅
 - **Topic:** Mux
 - **Files:** 
   - `day-03/src/mux4x1.v` - 4 input with 2 select line and a single output
@@ -28,5 +28,13 @@ Daily practice with Verilog/SystemVerilog and digital design concepts.
 - **Learning** Structural Style
 - **Date:** 02/06/25
 
+### Day 04 - 1bit full Adder ✅
+- **Topic:** Adder
+- **Files:** 
+  - `day-04/src/full_adder.v` - 1 bit full adder with sum and carry 
+  - `day-03/tb/full_adder_tb.v` - Testbench with all input combinations
+- **Learning** Full Adder
+- **Date:** 03/06/25
+
 ---
-**Progress:** 3/100 days | **Current Streak:** 3 🔥
+**Progress:** 4/100 days | **Current Streak:** 4 🔥
