@@ -36,14 +36,23 @@ Daily practice with Verilog/SystemVerilog and digital design concepts.
 - **Learning** Full Adder
 - **Date:** 03/06/25
 
-### Day 04 - ripple carry Adder ✅
+### Day 05 - ripple carry Adder ✅
 - **Topic:** Adder
 - **Files:** 
-  - `day-04/src/full_adder.v` - 1 bit full adder with sum and carry 
-  - `day-04/src/carry_adder.v` - a and b of 4 bits 
-  - `day-03/tb/full_adder_tb.v` - Testbench with all input combinations
+  - `day-05/src/full_adder.v` - 1 bit full adder with sum and carry 
+  - `day-05/src/carry_adder.v` - a and b of 4 bits 
+  - `day-05/tb/full_adder_tb.v` - Testbench with all input combinations
 - **Learning** ripple carry adder, genvar, generate
 - **Date:** 04/06/25
 
+### Day 06 - 4 bit Subtractor ✅
+- **Topic:** Adder
+- **Files:** 
+  - `day-06/src/full_subtractor.v` - 1 bit full adder with difference and dout
+  - `day-06/src/subtractor.v` - a and b of 4 bits 
+  - `day-06/tb/subtractor.v` - Testbench with all input combinations
+- **Learning** full subtractor, 4 bit subtractor
+- **Date:** 05/06/25
+
 ---
-**Progress:** 5/100 days | **Current Streak:** 5 🔥
+**Progress:** 6/100 days | **Current Streak:** 6 🔥
