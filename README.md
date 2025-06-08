@@ -48,11 +48,20 @@ Daily practice with Verilog/SystemVerilog and digital design concepts.
 ### Day 06 - 4 bit Subtractor ✅
 - **Topic:** Adder
 - **Files:** 
-  - `day-06/src/full_subtractor.v` - 1 bit full adder with difference and dout
+  - `day-06/src/full_subtractor.v` - 1 bit full subtractor with difference and dout
   - `day-06/src/subtractor.v` - a and b of 4 bits 
   - `day-06/tb/subtractor.v` - Testbench with all input combinations
 - **Learning** full subtractor, 4 bit subtractor
 - **Date:** 05/06/25
 
+### Day 07 - 3 to 8 Decoder Using 2 to 4 Decoders ✅
+- **Topic:** decoder
+- **Files:** 
+  - `day-07/src/decoder_2to4.v` - 2 to 4 decoder
+  - `day-07/src/decoder_3to8.v` - 3 to 8 decoder using 2 2to4 decoders
+  - `day-07/tb/decoder_3to8_tb.v` - Testbench 10 random inputs
+- **Learning** decoders, 2to4 decoder, 3to8decoder
+- **Date:** 06/06/25
+
 ---
-**Progress:** 6/100 days | **Current Streak:** 6 🔥
+**Progress:** 7/100 days | **Current Streak:** 7 🔥
