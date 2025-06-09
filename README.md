@@ -63,5 +63,14 @@ Daily practice with Verilog/SystemVerilog and digital design concepts.
 - **Learning** decoders, 2to4 decoder, 3to8decoder
 - **Date:** 06/06/25
 
+### Day 08 - 8 to 3 Priority Encoder Using 4 to 2 Priority Encoders ✅
+- **Topic:** Priority Encoder
+- **Files:** 
+  - `day-08/src/priority_enc_4to2.v` - 4 to 2 priority encoder module
+  - `day-08/src/priority_enc_8to3.v` - 8 to 3 priority encoder using two 4to2 encoders
+  - `day-08/tb/priority_enc_8to3_tb.v` - Testbench with specific and random test cases
+- **Learning:** Hierarchical design, priority encoding logic, reduction operators (|), module instantiation
+- **Date:** 09/06/25
+
 ---
-**Progress:** 7/100 days | **Current Streak:** 7 🔥
+**Progress:** 8/100 days | **Current Streak:** 8 🔥
