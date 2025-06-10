@@ -72,5 +72,14 @@ Daily practice with Verilog/SystemVerilog and digital design concepts.
 - **Learning:** Hierarchical design, priority encoding logic, reduction operators (|), module instantiation
 - **Date:** 09/06/25
 
+### Day 09 - Binary to Gray Code and Gray to Binary Converters ✅
+- **Topic:** Code Converters
+- **Files:** 
+  - `day-09/src/binary_to_graycode.v` - N-bit binary to Gray code converter
+  - `day-09/src/graycode_to_binary.v` -  N-bit Gray code to binary converter
+  - `day-09/tb/code_converters_tb.v` - Testbench with various test cases
+- **Learning:** Gray code conversion algorithms, generate blocks with proper loop bounds, parametric design, XOR operations for code conversion
+- **Date:** 10/06/25
+
 ---
-**Progress:** 8/100 days | **Current Streak:** 8 🔥
+**Progress:** 9/100 days | **Current Streak:** 9 🔥
