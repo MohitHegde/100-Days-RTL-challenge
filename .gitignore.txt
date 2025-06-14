@@ -1,4 +1,3 @@
-
 # Vivado files
 *.jou
 *.log
