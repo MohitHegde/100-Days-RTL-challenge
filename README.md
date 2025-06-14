@@ -99,5 +99,13 @@ Daily practice with Verilog/SystemVerilog and digital design concepts.
 - **Learning** flip flops, t flip flop, JK flip flop, clock, reset, always, case statements
 - **Date:** 12/06/25
 
+### Day 13 - 4 Bit Upcounter ✅
+- **Topic:** Upcounter
+- **Files:** 
+  - `day-12/src/upcntr.v` - 4 bit upcounter
+  - `day-12/tb/cntr_tb.v` - Testbench for the upcounter main module
+- **Learning** Counter, Upcounter
+- **Date:** 13/06/25
+
 ---
-**Progress:** 11/100 days | **Current Streak:** 11 🔥
+**Progress:** 12/100 days | **Current Streak:** 12 🔥
