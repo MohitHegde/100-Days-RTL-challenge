@@ -85,9 +85,19 @@ Daily practice with Verilog/SystemVerilog and digital design concepts.
 - **Topic:** Flip Flops
 - **Files:** 
   - `day-11/src/d_flip_flop.v` - D flip flop
-  - `day-03/tb/d_flip_flop_tb.v` - Testbench with all input combinations
+  - `day-03/tb/d_flip_flop_tb.v` - Testbench with some input combinations
 - **Learning** flip flops, D flip flop, clock, reset, always
 - **Date:** 11/06/25
 
+### Day 12 - T flip flop and JK flip flop ✅
+- **Topic:** Flip Flops
+- **Files:** 
+  - `day-12/t_flip_flop/src/t.v` - t flip flop
+  - `day-12/t_flip_flop/tb/t_tb.v` - Testbench with some input combinations
+  - `day-12/JK_flip_flop/src/t.v` - JK flip flop
+  - `day-12/JK_flip_flop/tb/t_tb.v` - Testbench with some input combinations
+- **Learning** flip flops, t flip flop, JK flip flop, clock, reset, always, case statements
+- **Date:** 12/06/25
+
 ---
-**Progress:** 10/100 days | **Current Streak:** 10 🔥
+**Progress:** 11/100 days | **Current Streak:** 11 🔥
