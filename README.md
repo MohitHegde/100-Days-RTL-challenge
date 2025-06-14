@@ -81,5 +81,13 @@ Daily practice with Verilog/SystemVerilog and digital design concepts.
 - **Learning:** Gray code conversion algorithms, generate blocks with proper loop bounds, parametric design, XOR operations for code conversion
 - **Date:** 10/06/25
 
+### Day 11 - D flip flop ✅
+- **Topic:** Flip Flops
+- **Files:** 
+  - `day-11/src/d_flip_flop.v` - D flip flop
+  - `day-03/tb/d_flip_flop_tb.v` - Testbench with all input combinations
+- **Learning** flip flops, D flip flop, clock, reset, always
+- **Date:** 11/06/25
+
 ---
-**Progress:** 9/100 days | **Current Streak:** 9 🔥
+**Progress:** 10/100 days | **Current Streak:** 10 🔥
