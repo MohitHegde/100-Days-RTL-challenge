@@ -107,5 +107,13 @@ Daily practice with Verilog/SystemVerilog and digital design concepts.
 - **Learning** Counter, Upcounter
 - **Date:** 13/06/25
 
+### Day 14 - 4 Bit Asycronous Down Counter ✅
+- **Topic:** Down Counter
+- **Files:** 
+  - `day-12/src/upcntr.v` - 4 bit Down Counter
+  - `day-12/tb/cntr_tb.v` - Testbench for the upcounter main module
+- **Learning** Counter, Down Counter, Asycronous Reset
+- **Date:** 14/06/25
+
 ---
-**Progress:** 12/100 days | **Current Streak:** 12 🔥
+**Progress:** 14/100 days | **Current Streak:** 14  🔥
