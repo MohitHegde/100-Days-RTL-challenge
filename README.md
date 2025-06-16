@@ -115,5 +115,13 @@ Daily practice with Verilog/SystemVerilog and digital design concepts.
 - **Learning** Counter, Down Counter, Asycronous Reset
 - **Date:** 14/06/25
 
+### Day 15 - N-bit Up/Down Counter ✅
+- **Topic:** Bidirectional Counter
+- **Files:** 
+ - `day-15/src/nbit_cntr.v` - N-bit parameterized up/down counter
+ - `day-15/tb/nbit_cntr_tb.v` - Testbench with up/down control and reset testing
+- **Learning:** Bidirectional counters, parameter usage, up/down control logic, non-blocking assignments in sequential logic
+- **Date:** 15/06/25
+
 ---
-**Progress:** 14/100 days | **Current Streak:** 14  🔥
+**Progress:** 15/100 days | **Current Streak:** 15 🔥
