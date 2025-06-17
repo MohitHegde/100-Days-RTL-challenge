@@ -123,5 +123,13 @@ Daily practice with Verilog/SystemVerilog and digital design concepts.
 - **Learning:** Bidirectional counters, parameter usage, up/down control logic, non-blocking assignments in sequential logic
 - **Date:** 15/06/25
 
+### Day 16 - Moore FSM for 1011 Sequence Detection ✅
+- **Topic:** Finite State Machines (Moore)
+- **Files:** 
+  - `day-16/src/fsm_1011_moore.v` - Moore FSM to detect sequence "1011"
+  - `day-16/tb/fsm_1011_moore_tb.v` - Testbench with specific sequence testing
+- **Learning:** Moore state machines, sequence detection, state encoding, combinational vs sequential logic separation
+- **Date:** 16/06/25
+
 ---
-**Progress:** 15/100 days | **Current Streak:** 15 🔥
+**Progress:** 16/100 days | **Current Streak:** 16 🔥
