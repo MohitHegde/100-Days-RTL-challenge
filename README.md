@@ -131,5 +131,13 @@ Daily practice with Verilog/SystemVerilog and digital design concepts.
 - **Learning:** Moore state machines, sequence detection, state encoding, combinational vs sequential logic separation
 - **Date:** 16/06/25
 
+### Day 17 - Mealy FSM for 1011 Sequence Detection ✅
+- **Topic:** Finite State Machines (Mealy)
+- **Files:** 
+  - `day-17/src/fsm_1011_mealy.v` - Mealy FSM to detect sequence "1011"
+  - `day-17/tb/fsm_1011_mealy_tb.v` - Testbench with specific sequence testing
+- **Learning:** Mealy state machines, input-dependent outputs, Moore vs Mealy differences, overlapping sequence handling
+- **Date:** 17/06/25
+
 ---
-**Progress:** 16/100 days | **Current Streak:** 16 🔥
+**Progress:** 17/100 days | **Current Streak:** 17 🔥
