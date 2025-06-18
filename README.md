@@ -139,5 +139,13 @@ Daily practice with Verilog/SystemVerilog and digital design concepts.
 - **Learning:** Mealy state machines, input-dependent outputs, Moore vs Mealy differences, overlapping sequence handling
 - **Date:** 17/06/25
 
+### Day 18 - Traffic Light Controller FSM ✅
+- **Topic:** Finite State Machines (Traffic Control)
+- **Files:** 
+ - `day-18/src/traffic.v` - 4-state traffic light controller with timing delays
+ - `day-18/tb/traffic_tb.v` - Comprehensive testbench with state monitoring and assertions
+- **Learning:** Complex FSM design, timing control with counters, state-based output control, traffic light sequencing (Main: Green→Yellow→Red, Side: Red→Green→Yellow→Red), proper testbench design with monitoring and verification
+- **Date:** 18/06/25
+
 ---
-**Progress:** 17/100 days | **Current Streak:** 17 🔥
+**Progress:** 18/100 days | **Current Streak:** 18 🔥
