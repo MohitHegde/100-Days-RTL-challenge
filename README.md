@@ -147,5 +147,14 @@ Daily practice with Verilog/SystemVerilog and digital design concepts.
 - **Learning:** Complex FSM design, timing control with counters, state-based output control, traffic light sequencing (Main: Green→Yellow→Red, Side: Red→Green→Yellow→Red), proper testbench design with monitoring and verification
 - **Date:** 18/06/25
 
+### Day 19 - Universal Shift Register ✅
+
+- **Topic:** Shift Registers
+- **Files:**
+- `day-19/src/usr.v` - 4-bit universal shift register with hold, left shift, right shift, and parallel load
+- `day-19/tb/usr_tb.v` - Testbench with systematic testing of all modes and random operations
+- **Learning:** Universal shift registers, multi-mode operations, case statements for control logic, proper testbench initialization with reset sequences, shift register applications
+- **Date:** 19/06/25
+
 ---
 **Progress:** 18/100 days | **Current Streak:** 18 🔥
