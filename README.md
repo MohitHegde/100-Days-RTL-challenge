@@ -156,5 +156,14 @@ Daily practice with Verilog/SystemVerilog and digital design concepts.
 - **Learning:** Universal shift registers, multi-mode operations, case statements for control logic, proper testbench initialization with reset sequences, shift register applications
 - **Date:** 19/06/25
 
+### Day 20 - 2x2 Binary Multiplier ✅
+- **Topic:** Multipliers
+- **Files:** 
+  - `day-20/src/multi_2x2.v` - 2x2 binary multiplier using AND gates and half adders
+  - `day-20/src/ha.v` - Half adder module for partial product addition
+  - `day-20/tb/multi_2x2_tb.v` - Testbench with all input combinations and verification
+- **Learning:** Binary multiplication, partial product generation, add-shift method, hierarchical design with half adders, combinational multiplier circuits
+- **Date:** 20/06/25
+
 ---
-**Progress:** 19/100 days | **Current Streak:** 19 🔥
+**Progress:** 20/100 days | **Current Streak:** 20 🔥
