@@ -165,5 +165,13 @@ Daily practice with Verilog/SystemVerilog and digital design concepts.
 - **Learning:** Binary multiplication, partial product generation, add-shift method, hierarchical design with half adders, combinational multiplier circuits
 - **Date:** 20/06/25
 
+### Day 21 - Clock Divider (50MHz to 1Hz) ✅
+- **Topic:** Clock Division
+- **Files:** 
+  - `day-21/src/clk_div.v` - Clock divider to convert 50MHz input to 1Hz output
+  - `day-21/tb/clk_div_tb.v` - Testbench with timing verification and edge counting
+- **Learning:** Clock division techniques, counter-based frequency division, large counter design (26-bit for 50MHz÷50M), clock domain considerations, timing analysis
+- **Date:** 21/06/25
+
 ---
-**Progress:** 20/100 days | **Current Streak:** 20 🔥
+**Progress:** 21/100 days | **Current Streak:** 21 🔥
