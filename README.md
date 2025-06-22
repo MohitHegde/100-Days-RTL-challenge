@@ -173,5 +173,13 @@ Daily practice with Verilog/SystemVerilog and digital design concepts.
 - **Learning:** Clock division techniques, counter-based frequency division, large counter design (26-bit for 50MHz÷50M), clock domain considerations, timing analysis
 - **Date:** 21/06/25
 
+### Day 22 - Button Press Detector ✅
+- **Topic:** Edge Detection
+- **Files:** 
+  - `day-22/src/btn_prs_det.v` - Button press detector for single pulse generation on rising edge
+  - `day-22/tb/btn_prs_det_tb.v` - Testbench with multiple button press scenarios and timing verification
+- **Learning:** Edge detection circuits, button debouncing concepts, single pulse generation, previous state storage, synchronous design with asynchronous reset
+- **Date:** 22/06/25
+
 ---
-**Progress:** 21/100 days | **Current Streak:** 21 🔥
+**Progress:** 22/100 days | **Current Streak:** 22🔥
