@@ -181,5 +181,13 @@ Daily practice with Verilog/SystemVerilog and digital design concepts.
 - **Learning:** Edge detection circuits, button debouncing concepts, single pulse generation, previous state storage, synchronous design with asynchronous reset
 - **Date:** 22/06/25
 
+### Day 23 - Pulse Width Detector ✅
+- **Topic:** Pulse Width Measurement
+- **Files:** 
+  - `day-23/src/pulse_width_det.v` - Pulse width detector that measures input pulse duration in clock cycles
+  - `day-23/tb/pulse_width_det_tb.v` - Testbench with variable pulse width testing and measurement verification
+- **Learning:** Pulse width measurement techniques, counter-based timing, edge detection for pulse boundaries, falling edge detection for measurement completion, real-time signal analysis
+- **Date:** 23/06/25
+
 ---
-**Progress:** 22/100 days | **Current Streak:** 22🔥
+**Progress:** 23/100 days | **Current Streak:** 23🔥
